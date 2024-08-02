@@ -12,7 +12,7 @@ html {
   scroll-snap-type: mandatory;
 }
 #background1 {
-  background-image: url(../assets/jumbo_background.jpg);
+  background-image: url(./assets/jumbo_background.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -88,7 +88,7 @@ html {
   display: block;
 }
 .background2 {
-  background-image: url(../assets/pattern_bg.png);
+  background-image: url(./assets/pattern_bg.png);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -163,7 +163,7 @@ html {
   }
 }
 .background3 {
-  background-image: url(../assets/download_background.jpg);
+  background-image: url(./assets/download_background.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -191,7 +191,7 @@ html {
   box-shadow: 5px 5px 5px;
 }
 .background4 {
-  background-image: url(../assets//pattern_bg.png);
+  background-image: url(./assets//pattern_bg.png);
   height: 140vh;
   width: 100%;
   text-align: center;
